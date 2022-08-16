@@ -1,4 +1,4 @@
-name: Build K2P kvr from vb1980 kvr repo
+name: Build PSG1218 kvr from vb1980 kvr repo
 
 on:
   workflow_dispatch:
